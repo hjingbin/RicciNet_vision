@@ -3,13 +3,13 @@
   <div style="margin-right: 80px; margin-left: 80px;">
     <img src="https://anonymous.4open.science/r/RicciNet_vision-6BFA/figure/Cora1.png" alt="Cora 1" width="350" height="350" style="border: 1px solid black;">
     <div style="text-align: center;">
-    <p style="font-family: 'Times New Roman', Times, serif; font-size: 24px;">The <u>initial</u> state of <strong>Cora</strong></p>
+        <p style="font-family: 'Times New Roman', Times, serif; font-size: 24px;">The <u>initial</u> state of <strong>Cora</strong></p>
     </div>
   </div>
   <div>
     <img src="https://anonymous.4open.science/r/RicciNet_vision-6BFA/figure/Cora2.png" alt="Cora 2" width="350" height="350" style="border: 1px solid black;">
     <div style="text-align: center;">
-    <p style="font-family: 'Times New Roman', Times, serif; font-size: 24px;"><u>Final</u> clustering results of <strong>Cora</strong></p>
+        <p style="font-family: 'Times New Roman', Times, serif; font-size: 24px;"><u>Final</u> clustering results of <strong>Cora</strong></p>
     </div>
   </div>
 </div>
